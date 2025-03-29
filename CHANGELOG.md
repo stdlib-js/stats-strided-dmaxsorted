@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`071e106`](https://github.com/stdlib-js/stdlib/commit/071e106d4b8ab44343179bbd86af5d95d1e09c34) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`a951a6d`](https://github.com/stdlib-js/stdlib/commit/a951a6d2ed9891399cba81b0834fe73b851247b7) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`6eeb0fd`](https://github.com/stdlib-js/stdlib/commit/6eeb0fd45f1d891bac5c1e3dd296293aa9d0b3ca) - **feat:** add `stats/strided/dmaxsorted` _(by Aayush Khanna)_
 
