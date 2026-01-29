@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmaxsorted@esm/index.mjs';
+import dmaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmaxsorted@v0.1.0-esm/index.mjs';
 ```
 
 #### dmaxsorted( N, x, strideX )
@@ -156,7 +156,7 @@ var v = dmaxsorted.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-linspace@esm/index.mjs';
-import dmaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmaxsorted@esm/index.mjs';
+import dmaxsorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmaxsorted@v0.1.0-esm/index.mjs';
 
 var options = {
     'dtype': 'float64'
